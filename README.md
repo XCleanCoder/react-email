@@ -3,13 +3,7 @@
 <div align="center"><strong>React Email</strong></div>
 <div align="center">The next generation of writing emails.<br />High-quality, unstyled components for creating emails.</div>
 <br />
-<div align="center">
-<a href="https://react.email">Website</a> 
-<span> · </span>
-<a href="https://github.com/resendlabs/react-email">GitHub</a> 
-<span> · </span>
-<a href="https://react.email/discord">Discord</a>
-</div>
+
 
 ## Introduction
 
